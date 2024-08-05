@@ -2,7 +2,7 @@
 
 IMLens is a canvas-based javascript library to allow image exploration with dynamic zoom.
 
-[Example](https://github.com/joaorulff/IMLens/blob/main/image.png)
+![Example](https://github.com/joaorulff/IMLens/blob/main/image.png)
 
 ## Installation
 
